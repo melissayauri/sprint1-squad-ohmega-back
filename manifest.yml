@@ -1,0 +1,4 @@
+applications:
+- path: .
+  name: ohmega-assistant-dev
+  memory: 128M
